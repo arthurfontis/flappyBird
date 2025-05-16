@@ -3,7 +3,7 @@
 }
 @font-face{
     font-family: Pixel;
-    src: url('../fonts/Pixel.ttf');
+    src: url('Pixel.ttf');
 }
 
 [wm-flappy]{
